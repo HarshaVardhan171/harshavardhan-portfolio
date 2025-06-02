@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thatraju Harsha Vardhan | Data Analyst</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif;
+    }
+    body { background: #f5f5f5; color: #333; line-height: 1.6; }
+    header {
+      background: linear-gradient(to right, #6a11cb, #2575fc);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+    header p { font-size: 1.2rem; }
+    .section {
+      padding: 2rem 1rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #6a11cb;
+      margin-bottom: 1rem;
+    }
+    .project, .skill {
+      background: #fff;
+      border-radius: 12px;
+      padding: 1.2rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+    a {
+      color: #2575fc;
+      text-decoration: none;
+    }
+    .contact p { margin: 0.4rem 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Thatraju Harsha Vardhan</h1>
+    <p>Aspiring Data Analyst | Excel • SQL • Power BI • Python</p>
+  </header>
+
+  <section class="section about">
+    <h2>About Me</h2>
+    <p>
+      I'm an aspiring Data Analyst transitioning from a market research background where I authored 150+ data-driven reports. 
+      My goal is to turn raw data into impactful insights that guide strategic decisions and drive measurable client success. 
+      With a solid foundation in tools like Excel, SQL, Python, and Power BI, I'm eager to contribute to real-world analytics problems.
+    </p>
+    <p><a href="mailto:harsha17112000@gmail.com">Email Me</a> | <a href="https://github.com/HarshaVardhan171">GitHub</a></p>
+  </section>
+
+  <section class="section projects">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>Personalized Interactive Finance Dashboard (Excel)</h3>
+      <p>Designed a dynamic Excel dashboard to track and visualize income, expenses, savings, and top spending categories. Integrated pivot tables, doughnut/tree maps, slicers, and conditional formatting. Led to a 15% increase in monthly savings by uncovering non-essential expenses.</p>
+      <a href="https://github.com/HarshaVardhan171" target="_blank">View on GitHub</a>
+    </div>
+
+    <div class="project">
+      <h3>Bellabeat Case Study</h3>
+      <p>Executed a complete case study in Excel, SQL, Tableau, and Python to analyze smart device usage patterns. Delivered strategic health recommendations for user engagement improvement. Practiced end-to-end data cleaning, EDA, and storytelling.</p>
+      <a href="https://github.com/HarshaVardhan171" target="_blank">View on GitHub</a>
+    </div>
+
+  </section>
+
+  <section class="section skills">
+    <h2>Skills</h2>
+    <div class="skill">Excel (Pivot Tables, Lookup Formulas, Dashboards)</div>
+    <div class="skill">SQL (MySQL, Joins, Aggregations, Subqueries)</div>
+    <div class="skill">Power BI (Reports, Slicers, DAX)</div>
+    <div class="skill">Python (Pandas, Matplotlib, Seaborn)</div>
+    <div class="skill">Tableau, Data Cleaning, EDA, Visualization</div>
+    <div class="skill">Market Research, Client Communication, Report Writing</div>
+  </section>
+
+  <section class="section resume">
+    <h2>Resume</h2>
+    <p><a href="https://github.com/HarshaVardhan171?tab=repositories" target="_blank">Download Resume</a></p>
+  </section>
+
+  <section class="section contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:harsha17112000@gmail.com">harsha17112000@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/HarshaVardhan171" target="_blank">github.com/HarshaVardhan171</a></p>
+  </section>
+</body>
+</html>
